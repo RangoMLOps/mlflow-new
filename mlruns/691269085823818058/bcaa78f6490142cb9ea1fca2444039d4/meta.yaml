@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/mlflow2/mlruns/691269085823818058/bcaa78f6490142cb9ea1fca2444039d4/artifacts
+end_time: 1721069483083
+entry_point_name: ''
+experiment_id: '691269085823818058'
+lifecycle_stage: active
+run_id: bcaa78f6490142cb9ea1fca2444039d4
+run_name: masked-penguin-65
+run_uuid: bcaa78f6490142cb9ea1fca2444039d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721069460259
+status: 3
+tags: []
+user_id: User

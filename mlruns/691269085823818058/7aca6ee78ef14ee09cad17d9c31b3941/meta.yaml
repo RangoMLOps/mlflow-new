@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/mlflow2/mlruns/691269085823818058/7aca6ee78ef14ee09cad17d9c31b3941/artifacts
+end_time: 1721069491359
+entry_point_name: ''
+experiment_id: '691269085823818058'
+lifecycle_stage: active
+run_id: 7aca6ee78ef14ee09cad17d9c31b3941
+run_name: gregarious-snail-317
+run_uuid: 7aca6ee78ef14ee09cad17d9c31b3941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721069483109
+status: 3
+tags: []
+user_id: User

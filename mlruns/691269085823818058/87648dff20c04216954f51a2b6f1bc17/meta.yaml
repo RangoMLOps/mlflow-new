@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/mlflow2/mlruns/691269085823818058/87648dff20c04216954f51a2b6f1bc17/artifacts
+end_time: 1721069500914
+entry_point_name: ''
+experiment_id: '691269085823818058'
+lifecycle_stage: active
+run_id: 87648dff20c04216954f51a2b6f1bc17
+run_name: capricious-steed-410
+run_uuid: 87648dff20c04216954f51a2b6f1bc17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721069491393
+status: 3
+tags: []
+user_id: User
